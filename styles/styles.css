@@ -128,6 +128,14 @@ margin: 0 auto;
     color: #1E2939;;
     text-decoration: none;
 }
+.project-link:hover{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #540077;
+    text-decoration: none;
+}
 .project{
     font-style: normal;
     font-weight: normal;
@@ -157,14 +165,7 @@ margin: 0 auto;
     color: #000000;
 
 }
-.project-item:hover{
-    font-style: normal;
-    font-weight: bold;
-    font-size: 14px;
-    line-height: 24px;
-    color: #540077;
 
-}
 /* work experience styles */
 .work-list{
    padding: 0;
