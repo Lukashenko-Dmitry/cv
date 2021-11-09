@@ -134,7 +134,7 @@ margin: 0 auto;
     font-size: 14px;
     line-height: 24px;
     color: #540077;
-    text-decoration: none;
+    text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F, 0 0 0.2em #87F;
 }
 .project{
     font-style: normal;
