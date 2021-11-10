@@ -1,8 +1,4 @@
-/* * */
-* {
-    margin: 0;
-    padding: 0;
-}
+
 /* body styles */
 body{
     font-family: 'Montserrat', sans-serif;
@@ -77,7 +73,6 @@ a:nth-child(3) {
 /* user photo styles */
 .photo{
     width: 370px;
-    margin-bottom: 50px;
     border-radius: 0% 0% 50% 50%;
 }
 /* sidebar title styles */
