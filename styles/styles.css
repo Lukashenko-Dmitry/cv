@@ -5,7 +5,7 @@ body{
 }
 /* main styles */
 .main{
-display: flex;
+display:flex;
 flex-direction:row;
 width: 1200px;
 margin: 0 auto;
@@ -17,6 +17,7 @@ margin: 0 auto;
     width: 370px;
     padding-top: 15px;
     border-top-left-radius: 180px 180px; 
+    order: -1;
 }
 /* user photo styles */
 .photo{
@@ -67,15 +68,15 @@ margin: 0 auto;
 }
 
 a:nth-child(1)  {
-    left: 10px;
-    bottom: 40px;
+    left: 15px;
+    bottom: 30px;
   }
   a:nth-child(2)  {
-    bottom: 10px;
+    bottom: 5px;
   }
 a:nth-child(3) {
     right: 10px; 
-    bottom: 40px;
+    bottom: 30px;
 }
 
 /* sidebar title styles */
