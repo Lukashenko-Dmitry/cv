@@ -79,7 +79,7 @@ a:nth-child(1)  {
     bottom: 30px;
   }
   a:nth-child(2)  {
-    bottom: 5px;
+    
   }
 a:nth-child(3) {
     right: 10px; 
@@ -136,15 +136,19 @@ a:nth-child(3) {
 }
 .soft-skills{
     margin-left: 40px;
+    margin-bottom: 40px;
 }
 .language-skills{
     margin-left: 40px;
+    margin-bottom: 40px;
 }
 .additional-information{
     margin-left: 40px;
+    margin-bottom: 40px;
 }
 .hobbies{
     margin-left: 40px;
+    margin-bottom: 40px;
 }
 .skills-list{
     font-style: normal;
@@ -165,7 +169,7 @@ a:nth-child(3) {
 .extra-main{
     background-color: #1E2939;
     color:#FFFFFF;
-    padding: 50px 0 0 0;  
+    padding: 60px 0 0 0;  
     margin-left: -20px;
     
 }
