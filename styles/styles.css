@@ -1,3 +1,7 @@
+*{
+    margin:0;
+    padding:0;
+}
 /* body styles */
 body{
     font-family: 'Montserrat', sans-serif;
@@ -16,14 +20,17 @@ margin: 0 auto;
     background-color: #1E2939;
     width: 370px;
     padding-top: 15px;
+    padding-right: 15px;
     border-top-left-radius: 180px 180px; 
-    order: -1;
+   
+   
+    
 }
 /* user photo styles */
 .photo{
     width: 350px;
     height: 350px;    
-    margin: 0px 0px 0px 15px;
+    padding: 0px 0px 0px 15px;
     border-radius: 50% 50% 50% 50%;    
 }
 /* social icons */
@@ -158,16 +165,19 @@ a:nth-child(3) {
 .extra-main{
     background-color: #1E2939;
     color:#FFFFFF;
-    padding: 50px 0 0 0;
+    padding: 50px 0 0 0;  
+    margin-left: -20px;
+    
 }
 /* main content styles */
 .main-content{
     background-color: #FFFFFF;   
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 50px 105px 90px 90px; 
-    border-top-left-radius: 100px 100px ;    
-    background-clip: padding-box; 
+    border-top-left-radius: 100px 100px ;     
     margin-top: 50px;
+    margin-left: -25px;
+    
 }
 /* about styles */
 .about{
