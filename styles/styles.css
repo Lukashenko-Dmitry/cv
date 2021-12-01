@@ -52,11 +52,12 @@ margin: 0 auto;
     margin: 0px 19px;
     border-radius: 50%;  
     text-align: center; 
-}
-.a-icon:hover{
-    background:#1E2939;
     transition: 0.3s;
 }
+/* .a-icon:hover{
+    background:#1E2939;
+    transition: 0.3s;
+} */
 
 .a-icon i {
     color :#565e6a;
